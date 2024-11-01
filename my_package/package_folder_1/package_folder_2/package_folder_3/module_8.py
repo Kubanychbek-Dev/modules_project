@@ -1,1 +1,2 @@
-print(__name__)
+def func_module_8():
+    print(__name__)
